@@ -1,0 +1,81 @@
+/* Seksyen 1 */
+.seksyen1{
+    background-image: url(https://cutewallpaper.org/21/pink-smoke-wallpaper/Pin-by-Em-Elhoor-on-Wallpaper-in-2019-Smoke-wallpaper-.jpg);
+    background-size: cover;
+    padding: 7% 15% 7%;
+
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-perfume{
+    color: rgb(46, 3, 3);
+}
+
+.tulisanPutih{
+    color: rgb(4, 20, 31);
+}
+
+/* Seksyen 2 */
+
+.seksyen2{
+    background-image: url(https://media.istockphoto.com/photos/abstract-blur-beautiful-pink-and-pastel-color-background-picture-id1068830592?k=20&m=1068830592&s=612x612&w=0&h=SeF_pvYUrp63a-5S-ICm_9qMmiu_JzZYoz447jM0GCQ=);
+    background-size: cover;
+    padding: 5% 15% 5%;
+    text-align: center;
+
+}
+
+.icon{
+    color: rgba(117, 110, 11, 0.74);
+    margin-bottom: 1rem;
+
+}
+
+.feature-box{
+    padding: 3%;
+}
+
+.h2{
+    font-family: 'DM Serif Display', serif;
+}
+
+/* seksyen 3 */
+.seksyen3{
+    background-image: url(https://pixy.org/src/474/thumbs350/4747938.jpg);
+    background-size: cover;
+    padding: 5%;
+    text-align: center;
+    color: rgb(3, 5, 5);
+}
+
+
+/* seksyen 4 */
+.seksyen4{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST6CgWVQN6ygV_9mX31DHwr7xSEWOOLza2Ww&usqp=CAU);
+    background-size: cover;
+    padding: 5%;
+    text-align: center;
+    color: rgb(11, 14, 14);
+}
+
+/* seksyen 5*/
+.seksyen5{
+    background-image: url(https://img.freepik.com/free-photo/abstract-empty-smooth-light-pink-studio-room-background-use-as-montage-product-display-banner-template_1258-63853.jpg?w=360);
+    background-size: cover;
+    padding: 2%;
+    text-align: center;
+}
+
+/* footer */
+.footer{
+    background-color: #C86B85;
+    padding: 2%;
+    text-align: center;
+}
+
+.media{
+    color: black;
+}
